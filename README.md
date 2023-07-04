@@ -6,5 +6,7 @@ The application provides a user-friendly interface where users can easily input 
 
 # Technical Stack:
 Backend Framework: Flask (Python)
-Database: SQLite,
+
+Database: SQLite
+
 Frontend: HTML, CSS, and Bootstrap for creating the user interface
